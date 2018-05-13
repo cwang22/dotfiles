@@ -107,6 +107,7 @@ alias -- -="cd -"
 # shortcuts
 alias g="git"
 alias v="vim"
+alias dc="docker-compose"
 
 # Create a new directory and enter it
 function md() {
